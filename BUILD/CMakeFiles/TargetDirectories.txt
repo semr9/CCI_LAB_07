@@ -1,0 +1,3 @@
+/home/sebastian/Documents/C-Make/CCI_LAB_08/BUILD/CMakeFiles/edit_cache.dir
+/home/sebastian/Documents/C-Make/CCI_LAB_08/BUILD/CMakeFiles/rebuild_cache.dir
+/home/sebastian/Documents/C-Make/CCI_LAB_08/BUILD/CMakeFiles/matrices.dir

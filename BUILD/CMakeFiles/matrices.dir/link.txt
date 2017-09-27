@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/matrices.dir/punteros_matrices.cpp.o  -o matrices 
